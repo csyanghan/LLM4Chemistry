@@ -5,13 +5,13 @@ This repository collects papers on Large Language Model for Chemistry.
 
 ## Contents
 
-- [Large Language Model for Chemistry (LLM4Chemistry)](#LLM4Chemistry)
+- [Large Language Model for Chemistry (LLM4Chemistry)](#llm4chemistry)
   - [Contents](#contents)
-  - [Fine-tuning LLM for Chemistry](#-Fine-tuning-LLM-for-Chemistry)
-  - [LLM Tool Using in Chemistry](#-LLM-Tool-Using-in-Chemistry)
-  - [Chemistry Reasoning with LLM](#-Chemistry-Reasoning-with-LLM)
-  - [Multi-Modal Chemistry LLM](#-Multi-Modal-Chemistry-LLM)
-  - [Related Works](#-Related-Works)
+  - [Fine-tuning LLM for Chemistry](#fine-tuning-llm-for-chemistry)
+  - [LLM Tool Using in Chemistry](#chemistry-reasoning-with-llm)
+  - [Chemistry Reasoning with LLM](#llm-chemistry-benchmark)
+  - [Multi-Modal Chemistry LLM](#multi-modal-chemistry-llm)
+  - [Related Works](#related-works)
 
 ### Fine-tuning LLM for Chemistry
 

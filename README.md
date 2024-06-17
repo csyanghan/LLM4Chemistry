@@ -15,13 +15,16 @@ This repository collects papers on Large Language Model for Chemistry.
 
 ### Fine-tuning LLM for Chemistry
 
+- `2022.05` Foundation Models of Scientific Knowledge for Chemistry: Opportunities, Challenges and Lessons Learned. [ACL Workshop](https://aclanthology.org/2022.bigscience-1.12.pdf)
 - `2024.02` Leveraging large language models for predictive chemistry. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00788-1)
 - `2024.04` ChemLLM: A Chemical Large Language Model. [arXiv](https://arxiv.org/abs/2402.06852)
 - `2024.04` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset. [arXiv](https://arxiv.org/abs/2402.09391)
+- `2024.06` Fine-tuning large language models for chemical text mining. [Chemical Science](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc00924j)
 
 
 ### LLM Tool Using in Chemistry
 
+- `2023.10` Large language models for chemistry robotics. [Autonomous Robots](https://doi.org/10.1007/s10514-023-10136-2)
 - `2023.12` Autonomous chemical research with large language models. [Nature](https://www.nature.com/articles/s41586-023-06792-0)
 - `2024.05` Augmenting large language models with chemistry tools. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00832-8)
 
@@ -36,7 +39,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2023.01` Assessment of chemistry knowledge in large language models that generate code. [Digital Discovery](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00087c)
 - `2023.03` Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
 - `2023.12` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks. [NeurIPS2023](https://arxiv.org/abs/2305.18365)
-
+- `2024.02` Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science. [arXiv](https://arxiv.org/pdf/2402.04119)
 
 ### Multi-Modal Chemistry LLM
 
@@ -44,4 +47,5 @@ This repository collects papers on Large Language Model for Chemistry.
 
 - `2023.04` A Systematic Survey of Chemical Pre-trained Models. [IJCAI2023](https://www.ijcai.org/proceedings/2023/0760.pdf)
 - `2024.01` Scientific Large Language Models: A Survey on Biological & Chemical Domains. [arXiv](https://arxiv.org/abs/2401.14656)
+- `2024.01` From Words to Molecules: A Survey of Large Language Models in Chemistry. [IJCAI2024](https://arxiv.org/pdf/2402.01439)
 

@@ -16,9 +16,11 @@ This repository collects papers on Large Language Model for Chemistry.
 ### Fine-tuning LLM for Chemistry
 
 - `2022.05` Foundation Models of Scientific Knowledge for Chemistry: Opportunities, Challenges and Lessons Learned. [ACL Workshop](https://aclanthology.org/2022.bigscience-1.12.pdf)
+- `2022.11` Galactica: A large language model for science. [arXiv](https://arxiv.org/abs/2211.09085)
+- `2024.01` ChemDFM: Dialogue Foundation Model for Chemistry. [arXiv](https://arxiv.org/abs/2401.14818)
 - `2024.02` Leveraging large language models for predictive chemistry. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00788-1)
+- `2024.03` SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning. [arXiv](https://arxiv.org/abs/2401.07950)
 - `2024.04` ChemLLM: A Chemical Large Language Model. [arXiv](https://arxiv.org/abs/2402.06852)
-- `2024.04` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset. [arXiv](https://arxiv.org/abs/2402.09391)
 - `2024.06` Fine-tuning large language models for chemical text mining. [Chemical Science](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc00924j)
 
 
@@ -34,14 +36,24 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.01` Structured Chemistry Reasoning with Large Language Models. [ICML2024](https://openreview.net/pdf/c5751a6913a0d8e993413d692b638af70ee7f2bd.pdf)
 
 
-### LLM Chemistry Benchmark
+### LLM Chemistry Benchmark and Dataset
 
+- `2017.09` Gardner. Crowdsourcing multiple choice science questions. [ACL Workshop](https://aclanthology.org/W17-4413.pdf)
 - `2023.01` Assessment of chemistry knowledge in large language models that generate code. [Digital Discovery](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00087c)
 - `2023.03` Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
 - `2023.12` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks. [NeurIPS2023](https://arxiv.org/abs/2305.18365)
+- `2023.12` SciMT-Safety: Control Risk for Potential Misuse of Artificial Intelligence in Science. [arXiv](https://arxiv.org/abs/2312.06632)
+- `2024.01` SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research. [AAAI2024](https://ojs.aaai.org/index.php/AAAI/article/view/29872/31521)
+- `2024.01` SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis. [arXiv](https://arxiv.org/abs/2403.01976)
 - `2024.02` Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science. [arXiv](https://arxiv.org/pdf/2402.04119)
+- `2024.02` SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models. [arXiv](https://arxiv.org/abs/2307.10635)
+- `2024.04` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models. [ICLR2024](https://openreview.net/forum?id=Tlsdsb6l9n)
+- `2024.04` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset. [arXiv](https://arxiv.org/abs/2402.09391)
+- `2024.06` SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models. [arXiv](https://arxiv.org/pdf/2406.09098)
 
 ### Multi-Modal Chemistry LLM
+
+
 
 ### Related Works
 

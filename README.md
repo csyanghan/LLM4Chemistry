@@ -18,6 +18,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2022.05` Foundation Models of Scientific Knowledge for Chemistry: Opportunities, Challenges and Lessons Learned. [ACL Workshop](https://aclanthology.org/2022.bigscience-1.12.pdf)
 - `2022.11` Galactica: A large language model for science. [arXiv](https://arxiv.org/abs/2211.09085)
 - `2024.01` ChemDFM: Dialogue Foundation Model for Chemistry. [arXiv](https://arxiv.org/abs/2401.14818)
+- `2024.01` Structured information extraction from scientific text with large language models. [Nature Communication](https://www.nature.com/articles/s41467-024-45563-x)
 - `2024.02` Leveraging large language models for predictive chemistry. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00788-1)
 - `2024.03` SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning. [arXiv](https://arxiv.org/abs/2401.07950)
 - `2024.04` ChemLLM: A Chemical Large Language Model. [arXiv](https://arxiv.org/abs/2402.06852)

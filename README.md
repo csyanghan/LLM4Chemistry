@@ -25,15 +25,11 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.06` Fine-tuning large language models for chemical text mining. [Chemical Science](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc00924j)
 
 
-### LLM Tool Using in Chemistry
+### LLM as A Chemistry Agent
 
 - `2023.10` Large language models for chemistry robotics. [Autonomous Robots](https://doi.org/10.1007/s10514-023-10136-2)
 - `2023.12` Autonomous chemical research with large language models. [Nature](https://www.nature.com/articles/s41586-023-06792-0)
 - `2024.05` Augmenting large language models with chemistry tools. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00832-8)
-
-
-### Chemistry Reasoning with LLM
-
 - `2024.01` Structured Chemistry Reasoning with Large Language Models. [ICML2024](https://openreview.net/pdf/c5751a6913a0d8e993413d692b638af70ee7f2bd.pdf)
 
 

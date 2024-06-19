@@ -53,10 +53,10 @@ This repository collects papers on Large Language Model for Chemistry.
 
 ### Multi-Modal Chemistry LLM
 
-- [`2023.06`] MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter. [EMNLP2023](https://aclanthology.org/2023.emnlp-main.966/)
-- [`2023.09`] 3D-MOLM: TOWARDS 3D MOLECULE-TEXT INTERPRETATION IN LANGUAGE MODELS. [ICLR2024](https://openreview.net/forum?id=xI4yNlkaqh)
-- [`2024.01`] MolTC: Towards Molecular Relational Modeling In Language Models [ACL2024](https://arxiv.org/pdf/2402.03781)
-- [`2024.01`] ReactXT: Understanding Molecular “Reaction-ship” viaReaction-Contextualized Molecule-Text Pretraining. [ACL2024](https://arxiv.org/pdf/2405.14225)
+- `2023.06` MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter. [EMNLP2023](https://aclanthology.org/2023.emnlp-main.966/)
+- `2023.09` 3D-MOLM: TOWARDS 3D MOLECULE-TEXT INTERPRETATION IN LANGUAGE MODELS. [ICLR2024](https://openreview.net/forum?id=xI4yNlkaqh)
+- `2024.01` MolTC: Towards Molecular Relational Modeling In Language Models [ACL2024](https://arxiv.org/pdf/2402.03781)
+- `2024.01` ReactXT: Understanding Molecular “Reaction-ship” viaReaction-Contextualized Molecule-Text Pretraining. [ACL2024](https://arxiv.org/pdf/2405.14225)
 
 
 ### Related Works
@@ -64,4 +64,4 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2023.04` A Systematic Survey of Chemical Pre-trained Models. [IJCAI2023](https://www.ijcai.org/proceedings/2023/0760.pdf)
 - `2024.01` Scientific Large Language Models: A Survey on Biological & Chemical Domains. [arXiv](https://arxiv.org/abs/2401.14656)
 - `2024.01` From Words to Molecules: A Survey of Large Language Models in Chemistry. [IJCAI2024](https://arxiv.org/pdf/2402.01439)
-
+- `2024.06` A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery. [arXiv](https://arxiv.org/pdf/2406.10833)

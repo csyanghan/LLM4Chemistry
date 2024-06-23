@@ -25,12 +25,14 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.04` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models. [ICLR2024](https://openreview.net/forum?id=Tlsdsb6l9n)
 - `2024.04` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset. [arXiv](https://arxiv.org/abs/2402.09391)
 - `2024.06` Fine-tuning large language models for chemical text mining. [Chemical Science](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc00924j)
+- `2024.06` HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment. [arXiv](https://arxiv.org/pdf/2406.14021)
 
 
 ### Multi-Modal Chemistry LLM
 
 - `2023.06` MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter. [EMNLP2023](https://aclanthology.org/2023.emnlp-main.966/)
 - `2023.09` 3D-MOLM: TOWARDS 3D MOLECULE-TEXT INTERPRETATION IN LANGUAGE MODELS. [ICLR2024](https://openreview.net/forum?id=xI4yNlkaqh)
+- `2023.11` InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery. [arXiv](https://arxiv.org/pdf/2311.16208)
 - `2024.01` MolTC: Towards Molecular Relational Modeling In Language Models [ACL2024](https://arxiv.org/pdf/2402.03781)
 - `2024.01` ReactXT: Understanding Molecular “Reaction-ship” viaReaction-Contextualized Molecule-Text Pretraining. [ACL2024](https://arxiv.org/pdf/2405.14225)
 
@@ -47,7 +49,7 @@ This repository collects papers on Large Language Model for Chemistry.
 
 ### LLM Chemistry Benchmark
 
-- `2017.09` Gardner. Crowdsourcing multiple choice science questions. [ACL Workshop](https://aclanthology.org/W17-4413.pdf)
+- `2017.09` Crowdsourcing multiple choice science questions. [ACL Workshop](https://aclanthology.org/W17-4413.pdf)
 - `2023.01` Assessment of chemistry knowledge in large language models that generate code. [Digital Discovery](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00087c)
 - `2023.03` Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
 - `2023.12` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks. [NeurIPS2023](https://arxiv.org/abs/2305.18365)

@@ -24,8 +24,8 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.04` ChemLLM: A Chemical Large Language Model. [arXiv](https://arxiv.org/abs/2402.06852)
 - `2024.04` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models. [ICLR2024](https://openreview.net/forum?id=Tlsdsb6l9n)
 - `2024.04` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset. [arXiv](https://arxiv.org/abs/2402.09391)
+- `2024.05` nach0: Multimodal Natural and Chemical Languages Foundation Model. [Chemical Science](https://arxiv.org/pdf/2311.12410)
 - `2024.06` Fine-tuning large language models for chemical text mining. [Chemical Science](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc00924j)
-- `2024.06` HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment. [arXiv](https://arxiv.org/pdf/2406.14021)
 
 
 ### Multi-Modal Chemistry LLM
@@ -35,14 +35,20 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2023.11` InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery. [arXiv](https://arxiv.org/pdf/2311.16208)
 - `2024.01` MolTC: Towards Molecular Relational Modeling In Language Models [ACL2024](https://arxiv.org/pdf/2402.03781)
 - `2024.01` ReactXT: Understanding Molecular “Reaction-ship” viaReaction-Contextualized Molecule-Text Pretraining. [ACL2024](https://arxiv.org/pdf/2405.14225)
+- `2024.06` HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment. [arXiv](https://arxiv.org/pdf/2406.14021)
 
 
 ### LLM as A Chemistry Agent
 
+- `2023.06` Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective. [TKDE](https://arxiv.org/abs/2306.06615)
 - `2023.10` Large language models for chemistry robotics. [Autonomous Robots](https://doi.org/10.1007/s10514-023-10136-2)
+- `2023.10` ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction. [arXiv](https://arxiv.org/pdf/2310.13590)
 - `2023.12` Autonomous chemical research with large language models. [Nature](https://www.nature.com/articles/s41586-023-06792-0)
 - `2024.01` Structured Chemistry Reasoning with Large Language Models. [ICML2024](https://openreview.net/pdf/c5751a6913a0d8e993413d692b638af70ee7f2bd.pdf)
+- `2024.02` An Autonomous Large Language Model Agent for Chemical Literature Data Mining. [arXiv](https://arxiv.org/abs/2402.12993)
+- `2024.03` From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery. [AAAI2024](https://arxiv.org/pdf/2309.05203)
 - `2024.04` Integrating Chemistry Knowledge in Large Language Models via Prompt Engineering. [arXiv](https://arxiv.org/pdf/2404.14467)
+- `2024.04` Large Language Models are In-Context Molecule Learners. [arXiv](https://arxiv.org/pdf/2403.04197)
 - `2024.05` Augmenting large language models with chemistry tools. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00832-8)
 - `2024.05` ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models. [Nature Communications](https://www.nature.com/articles/s41467-024-48998-4)
 
@@ -57,6 +63,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.01` SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research. [AAAI2024](https://ojs.aaai.org/index.php/AAAI/article/view/29872/31521)
 - `2024.01` SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis. [arXiv](https://arxiv.org/abs/2403.01976)
 - `2024.02` Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science. [arXiv](https://arxiv.org/pdf/2402.04119)
+- `2024.03` MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension. [arXiv](https://arxiv.org/pdf/2403.08192)
 - `2024.02` SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models. [arXiv](https://arxiv.org/abs/2307.10635)
 - `2024.06` SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models. [arXiv](https://arxiv.org/pdf/2406.09098)
 
@@ -66,4 +73,6 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2023.04` A Systematic Survey of Chemical Pre-trained Models. [IJCAI2023](https://www.ijcai.org/proceedings/2023/0760.pdf)
 - `2024.01` Scientific Large Language Models: A Survey on Biological & Chemical Domains. [arXiv](https://arxiv.org/abs/2401.14656)
 - `2024.01` From Words to Molecules: A Survey of Large Language Models in Chemistry. [IJCAI2024](https://arxiv.org/pdf/2402.01439)
+- `2024.03` Bridging Text and Molecule: A Survey on Multimodal Frameworks for Molecule. [arXiv](https://arxiv.org/pdf/2403.13830)
+- `2024.03` Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey. [arXiv](https://arxiv.org/pdf/2403.01528)
 - `2024.06` A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery. [arXiv](https://arxiv.org/pdf/2406.10833)

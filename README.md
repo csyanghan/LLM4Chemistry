@@ -26,6 +26,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.04` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset. [arXiv](https://arxiv.org/abs/2402.09391)
 - `2024.05` nach0: Multimodal Natural and Chemical Languages Foundation Model. [Chemical Science](https://arxiv.org/pdf/2311.12410)
 - `2024.06` Fine-tuning large language models for chemical text mining. [Chemical Science](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc00924j)
+- `2024.06` MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction. [arXiv](https://arxiv.org/pdf/2406.12950v1)
 
 
 ### Multi-Modal Chemistry LLM
@@ -33,6 +34,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2023.06` MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter. [EMNLP2023](https://aclanthology.org/2023.emnlp-main.966/)
 - `2023.09` 3D-MOLM: TOWARDS 3D MOLECULE-TEXT INTERPRETATION IN LANGUAGE MODELS. [ICLR2024](https://openreview.net/forum?id=xI4yNlkaqh)
 - `2023.11` InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery. [arXiv](https://arxiv.org/pdf/2311.16208)
+- `2023.12` MoleculeGPT: Instruction Following Large Language Models for Molecular Property Prediction. [NIPS Workshop](https://ai4d3.github.io/papers/34.pdf)
 - `2024.01` MolTC: Towards Molecular Relational Modeling In Language Models [ACL2024](https://arxiv.org/pdf/2402.03781)
 - `2024.01` ReactXT: Understanding Molecular “Reaction-ship” viaReaction-Contextualized Molecule-Text Pretraining. [ACL2024](https://arxiv.org/pdf/2405.14225)
 - `2024.06` HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment. [arXiv](https://arxiv.org/pdf/2406.14021)

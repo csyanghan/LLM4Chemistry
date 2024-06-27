@@ -17,6 +17,7 @@ This repository collects papers on Large Language Model for Chemistry.
 
 - `2022.05` Foundation Models of Scientific Knowledge for Chemistry: Opportunities, Challenges and Lessons Learned. [ACL Workshop](https://aclanthology.org/2022.bigscience-1.12.pdf)
 - `2022.11` Galactica: A large language model for science. [arXiv](https://arxiv.org/abs/2211.09085)
+- `2022.11` Is GPT-3 all you need for machine learning for chemistry? [NIPS2022 Workshop](https://openreview.net/pdf?id=dgpgTEZ6G__)
 - `2023.08` Fine-tuning GPT-3 for machine learning electronic and functional properties of organic molecules. [Chemical Science](https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc04610a)
 - `2023.10` MatChat: A Large Language Model and Application Service Platform for Materials Science. [Chinese Physics B](https://arxiv.org/abs/2310.07197)
 - `2024.01` ChemDFM: Dialogue Foundation Model for Chemistry. [arXiv](https://arxiv.org/abs/2401.14818)

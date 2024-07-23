@@ -42,6 +42,8 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.01` ReactXT: Understanding Molecular “Reaction-ship” viaReaction-Contextualized Molecule-Text Pretraining. [ACL2024](https://arxiv.org/pdf/2405.14225)
 - `2024.06` HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment. [arXiv](https://arxiv.org/pdf/2406.14021)
 - `2024.07` MolLM: a unified language model for integrating biomedical text with 2D and 3D molecular representations. [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i357/7700902)
+- `2024.03` GIT-Mol: A multi-modal large language model for molecular science with graph, image, and text. [arXiv](https://arxiv.org/pdf/2308.06911)
+- `2023.06` MolFM: A Multimodal Molecular Foundation Model. [arXiv](https://arxiv.org/pdf/2307.09484)
 
 
 ### LLM as A Chemistry Agent

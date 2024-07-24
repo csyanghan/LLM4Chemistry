@@ -86,6 +86,7 @@ This repository collects papers on Large Language Model for Chemistry.
 ### Related Works
 
 - `2023.04` A Systematic Survey of Chemical Pre-trained Models. [IJCAI2023](https://www.ijcai.org/proceedings/2023/0760.pdf)
+- `2023.09` Large Language Models in Molecular Discovery. [NIPS2023 Workshop](https://neurips.cc/virtual/2023/75777)
 - `2024.01` Scientific Large Language Models: A Survey on Biological & Chemical Domains. [arXiv](https://arxiv.org/abs/2401.14656)
 - `2024.01` From Words to Molecules: A Survey of Large Language Models in Chemistry. [IJCAI2024](https://arxiv.org/pdf/2402.01439)
 - `2024.03` Bridging Text and Molecule: A Survey on Multimodal Frameworks for Molecule. [arXiv](https://arxiv.org/pdf/2403.13830)

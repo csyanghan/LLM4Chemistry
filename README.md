@@ -24,6 +24,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.01` Structured information extraction from scientific text with large language models. [Nature Communication](https://www.nature.com/articles/s41467-024-45563-x)
 - `2024.02` Leveraging large language models for predictive chemistry. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00788-1)
 - `2024.03` SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning. [arXiv](https://arxiv.org/abs/2401.07950)
+- `2024.03` Domain-Agnostic Molecular Generation with Chemical Feedback. [ICLR2024](https://arxiv.org/pdf/2301.11259)
 - `2024.04` ChemLLM: A Chemical Large Language Model. [arXiv](https://arxiv.org/abs/2402.06852)
 - `2024.04` Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models. [ICLR2024](https://openreview.net/forum?id=Tlsdsb6l9n)
 - `2024.04` LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset. [arXiv](https://arxiv.org/abs/2402.09391)

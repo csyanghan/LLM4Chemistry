@@ -52,6 +52,8 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2021.07` Learning Transferable Visual Models From Natural Language Supervision. [International conference on machine learning](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 - `2022.11` ONE TRANSFORMER CAN UNDERSTAND BOTH 2D & 3D MOLECULAR DATA. [The Eleventh International Conference on Learning Representations](https://openreview.net/pdf?id=vZTp1oPV3PC)
 - `2024.06` 3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization. [arXiv](https://arxiv.org/pdf/2406.05797)
+- `2017.08` A simple representation of three-dimensional molecular structure. [Journal of medicinal chemistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075869/)
+- `2023.03` Uni-Mol: A Universal 3D Molecular Representation Learning Framework. [ICLR](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6402990d37e01856dc1d1581/original/uni-mol-a-universal-3d-molecular-representation-learning-framework.pdf)
 
 
 

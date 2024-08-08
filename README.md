@@ -47,7 +47,12 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.03` GIT-Mol: A multi-modal large language model for molecular science with graph, image, and text. [arXiv](https://arxiv.org/pdf/2308.06911)
 - `2023.06` MolFM: A Multimodal Molecular Foundation Model. [arXiv](https://arxiv.org/pdf/2307.09484)
 - `2019.02` HOW POWERFUL ARE GRAPH NEURAL NETWORKS? [arXvi](https://arxiv.org/pdf/1810.00826)
-- ``
+- `2019.05` VQVAE Unsupervised Unit Discovery and Multi-scale Code2Spec Inverter for Zerospeech Challenge 2019. [arXvi](https://arxiv.org/pdf/1905.11449)
+- `2023.07` BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models. [International conference on machine learning](https://proceedings.mlr.press/v202/li23q/li23q.pdf)
+- `2021.07` Learning Transferable Visual Models From Natural Language Supervision. [International conference on machine learning](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
+- `2022.11` ONE TRANSFORMER CAN UNDERSTAND BOTH 2D & 3D MOLECULAR DATA. [The Eleventh International Conference on Learning Representations](https://openreview.net/pdf?id=vZTp1oPV3PC)
+- `2024.06` 3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization. [arXiv](https://arxiv.org/pdf/2406.05797)
+
 
 
 ### LLM as A Chemistry Agent

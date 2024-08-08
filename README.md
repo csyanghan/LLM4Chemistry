@@ -54,6 +54,15 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.06` 3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization. [arXiv](https://arxiv.org/pdf/2406.05797)
 - `2017.08` A simple representation of three-dimensional molecular structure. [Journal of medicinal chemistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075869/)
 - `2023.03` Uni-Mol: A Universal 3D Molecular Representation Learning Framework. [ICLR](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6402990d37e01856dc1d1581/original/uni-mol-a-universal-3d-molecular-representation-learning-framework.pdf)
+- `2021.08` Swin Transformer: Hierarchical Vision Transformer using Shifted Windows. [Proceedings of the IEEE/CVF international conference on computer vision](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
+- `2024.03` MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition. [arXvi](https://arxiv.org/pdf/2403.03691)
+- `2023.08` MolGrapher: Graph-based Visual Recognition of Chemical Structures.[Proceedings of the IEEE/CVF International Conference on Computer Vision](https://openaccess.thecvf.com/content/ICCV2023/papers/Morin_MolGrapher_Graph-based_Visual_Recognition_of_Chemical_Structures_ICCV_2023_paper.pdf)
+- `2021.09` Img2Mol – accurate SMILES recognition from molecular graphical depictions. [Chemical Science](https://pubs.rsc.org/en/content/articlepdf/2021/sc/d1sc01839f)
+- `2023.05` RxnScribe: A Sequence Generation Model for Reaction Diagram Parsing. [arXiv](https://arxiv.org/pdf/2305.11845)
+- `2024.04` OpenChemIE: An Information Extraction Toolkit For Chemistry Literature. [arXiv](https://arxiv.org/pdf/2404.01462)
+- `2023.09` ReactionDataExtractor 2.0: A Deep Learning Approach for Data Extraction from Chemical Reaction Schemes. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.3c00422)
+- `2019.09` RDKit Documentation. [Release]https://readthedocs.org/projects/rdkit/downloads/pdf/latest/
+- 
 
 
 

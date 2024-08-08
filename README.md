@@ -51,11 +51,9 @@ This repository collects papers on Large Language Model for Chemistry.
 ### LLM as A Chemistry Agent
 
 - `2023.06` Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective. [TKDE](https://arxiv.org/abs/2306.06615)
-- `2023.07` Can Large Language Models Empower Molecular Property Prediction? [arXiv](https://arxiv.org/pdf/2307.07443)
 - `2023.10` Large language models for chemistry robotics. [Autonomous Robots](https://doi.org/10.1007/s10514-023-10136-2)
 - `2023.10` ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction. [arXiv](https://arxiv.org/pdf/2310.13590)
 - `2023.10` Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design. [EMNLP2023](https://arxiv.org/pdf/2310.14420)
-- `2023.10` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property. [arXiv](https://arxiv.org/pdf/2310.03030)
 - `2023.11` Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis. [arXiv](https://arxiv.org/abs/2311.10776)
 - `2023.12` Autonomous chemical research with large language models. [Nature](https://www.nature.com/articles/s41586-023-06792-0)
 - `2024.01` Structured Chemistry Reasoning with Large Language Models. [ICML2024](https://openreview.net/pdf/c5751a6913a0d8e993413d692b638af70ee7f2bd.pdf)
@@ -74,6 +72,8 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2017.09` Crowdsourcing multiple choice science questions. [ACL Workshop](https://aclanthology.org/W17-4413.pdf)
 - `2023.01` Assessment of chemistry knowledge in large language models that generate code. [Digital Discovery](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00087c)
 - `2023.03` Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
+- `2023.07` Can Large Language Models Empower Molecular Property Prediction? [arXiv](https://arxiv.org/pdf/2307.07443)
+- `2023.10` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property. [arXiv](https://arxiv.org/pdf/2310.03030)
 - `2023.12` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks. [NeurIPS2023](https://arxiv.org/abs/2305.18365)
 - `2023.12` SciMT-Safety: Control Risk for Potential Misuse of Artificial Intelligence in Science. [arXiv](https://arxiv.org/abs/2312.06632)
 - `2024.01` SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research. [AAAI2024](https://ojs.aaai.org/index.php/AAAI/article/view/29872/31521)

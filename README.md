@@ -64,6 +64,8 @@ Models for Materials Science. [EMNLP2023](https://aclanthology.org/2023.findings
 - `2024.04` OpenChemIE: An Information Extraction Toolkit For Chemistry Literature. [arXiv](https://arxiv.org/pdf/2404.01462)
 - `2023.09` ReactionDataExtractor 2.0: A Deep Learning Approach for Data Extraction from Chemical Reaction Schemes. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.3c00422)
 - `2019.09` RDKit Documentation. [Release]https://readthedocs.org/projects/rdkit/downloads/pdf/latest/
+- `2023.12` Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena. [arXiv](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf)
+- `2024.06` MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension. [arXiv](https://arxiv.org/pdf/2406.06777)
 - 
 
 

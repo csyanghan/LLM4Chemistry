@@ -19,6 +19,8 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2022.11` Galactica: A large language model for science. [arXiv](https://arxiv.org/abs/2211.09085)
 - `2022.11` Is GPT-3 all you need for machine learning for chemistry? [NIPS2022 Workshop](https://openreview.net/pdf?id=dgpgTEZ6G__)
 - `2023.08` Fine-tuning GPT-3 for machine learning electronic and functional properties of organic molecules. [Chemical Science](https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc04610a)
+- `2023.08` HoneyBee: Progressive Instruction Finetuning of Large Language
+Models for Materials Science. [EMNLP2023](https://aclanthology.org/2023.findings-emnlp.380.pdf)
 - `2023.10` MatChat: A Large Language Model and Application Service Platform for Materials Science. [Chinese Physics B](https://arxiv.org/abs/2310.07197)
 - `2024.01` ChemDFM: Dialogue Foundation Model for Chemistry. [arXiv](https://arxiv.org/abs/2401.14818)
 - `2024.01` Structured information extraction from scientific text with large language models. [Nature Communication](https://www.nature.com/articles/s41467-024-45563-x)
@@ -68,9 +70,8 @@ This repository collects papers on Large Language Model for Chemistry.
 
 ### LLM as A Chemistry Agent
 
-- `2023.06` Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective. [TKDE](https://arxiv.org/abs/2306.06615)
+
 - `2023.10` Large language models for chemistry robotics. [Autonomous Robots](https://doi.org/10.1007/s10514-023-10136-2)
-- `2023.10` ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction. [arXiv](https://arxiv.org/pdf/2310.13590)
 - `2023.10` Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design. [EMNLP2023](https://arxiv.org/pdf/2310.14420)
 - `2023.11` Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis. [arXiv](https://arxiv.org/abs/2311.10776)
 - `2023.12` Autonomous chemical research with large language models. [Nature](https://www.nature.com/articles/s41586-023-06792-0)
@@ -83,14 +84,16 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.04` A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions. [arXiv](https://arxiv.org/pdf/2404.09606)
 - `2024.05` Augmenting large language models with chemistry tools. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00832-8)
 - `2024.05` ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models. [Nature Communications](https://www.nature.com/articles/s41467-024-48998-4)
-
+- `2024.06` LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation. [arXiv](https://arxiv.org/pdf/2401.17244)
 
 ### LLM Chemistry Benchmark
 
 - `2017.09` Crowdsourcing multiple choice science questions. [ACL Workshop](https://aclanthology.org/W17-4413.pdf)
 - `2023.01` Assessment of chemistry knowledge in large language models that generate code. [Digital Discovery](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00087c)
 - `2023.03` Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
+- `2023.06` Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective. [TKDE](https://arxiv.org/abs/2306.06615)
 - `2023.07` Can Large Language Models Empower Molecular Property Prediction? [arXiv](https://arxiv.org/pdf/2307.07443)
+- `2023.10` ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction. [arXiv](https://arxiv.org/pdf/2310.13590)
 - `2023.10` GPT-MolBERTa: GPT Molecular Features Language Model for molecular property. [arXiv](https://arxiv.org/pdf/2310.03030)
 - `2023.12` What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks. [NeurIPS2023](https://arxiv.org/abs/2305.18365)
 - `2023.12` SciMT-Safety: Control Risk for Potential Misuse of Artificial Intelligence in Science. [arXiv](https://arxiv.org/abs/2312.06632)
@@ -114,3 +117,4 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.03` Bridging Text and Molecule: A Survey on Multimodal Frameworks for Molecule. [arXiv](https://arxiv.org/pdf/2403.13830)
 - `2024.03` Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey. [arXiv](https://arxiv.org/pdf/2403.01528)
 - `2024.06` A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery. [arXiv](https://arxiv.org/pdf/2406.10833)
+- `2024.07` A Review of Large Language Models and Autonomous Agents in Chemistry. [arXiv](https://arxiv.org/pdf/2407.01603)

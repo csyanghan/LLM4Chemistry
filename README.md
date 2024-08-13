@@ -19,8 +19,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2022.11` Galactica: A large language model for science. [arXiv](https://arxiv.org/abs/2211.09085)
 - `2022.11` Is GPT-3 all you need for machine learning for chemistry? [NIPS2022 Workshop](https://openreview.net/pdf?id=dgpgTEZ6G__)
 - `2023.08` Fine-tuning GPT-3 for machine learning electronic and functional properties of organic molecules. [Chemical Science](https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc04610a)
-- `2023.08` HoneyBee: Progressive Instruction Finetuning of Large Language
-Models for Materials Science. [EMNLP2023](https://aclanthology.org/2023.findings-emnlp.380.pdf)
+- `2023.08` HoneyBee: Progressive Instruction Finetuning of Large Language Models for Materials Science. [EMNLP2023](https://aclanthology.org/2023.findings-emnlp.380.pdf)
 - `2023.10` MatChat: A Large Language Model and Application Service Platform for Materials Science. [Chinese Physics B](https://arxiv.org/abs/2310.07197)
 - `2024.01` ChemDFM: Dialogue Foundation Model for Chemistry. [arXiv](https://arxiv.org/abs/2401.14818)
 - `2024.01` Structured information extraction from scientific text with large language models. [Nature Communication](https://www.nature.com/articles/s41467-024-45563-x)
@@ -34,6 +33,7 @@ Models for Materials Science. [EMNLP2023](https://aclanthology.org/2023.findings
 - `2024.05` nach0: Multimodal Natural and Chemical Languages Foundation Model. [Chemical Science](https://arxiv.org/pdf/2311.12410)
 - `2024.06` Fine-tuning large language models for chemical text mining. [Chemical Science](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc00924j)
 - `2024.06` MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction. [arXiv](https://arxiv.org/pdf/2406.12950v1)
+- `2024.06` SynAsk: Unleashing the Power of Large Language Models in Organic Synthesis. [arXiv](https://arxiv.org/pdf/2406.04593)
 
 
 ### Multi-Modal Chemistry LLM
@@ -107,6 +107,7 @@ Models for Materials Science. [EMNLP2023](https://aclanthology.org/2023.findings
 - `2024.03` MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension. [arXiv](https://arxiv.org/pdf/2403.08192)
 - `2024.03` Benchmarking Large Language Models for Molecule Prediction Tasks. [arXiv](https://arxiv.org/pdf/2403.05075)
 - `2024.02` SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models. [arXiv](https://arxiv.org/abs/2307.10635)
+- `2024.04` Are large language models superhuman chemists? [arXiv](https://arxiv.org/pdf/2404.01475)
 - `2024.06` SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models. [arXiv](https://arxiv.org/pdf/2406.09098)
 
 

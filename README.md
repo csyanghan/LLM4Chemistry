@@ -84,6 +84,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.04` Integrating Chemistry Knowledge in Large Language Models via Prompt Engineering. [arXiv](https://arxiv.org/pdf/2404.14467)
 - `2024.04` Large Language Models are In-Context Molecule Learners. [arXiv](https://arxiv.org/pdf/2403.04197)
 - `2024.04` A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions. [arXiv](https://arxiv.org/pdf/2404.09606)
+- `2024.04` Large Language Models Open New Way of AI-Assisted Molecule Design for Chemists. [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/66220456418a5379b0297f8d)
 - `2024.05` Augmenting large language models with chemistry tools. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00832-8)
 - `2024.05` ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models. [Nature Communications](https://www.nature.com/articles/s41467-024-48998-4)
 - `2024.06` LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation. [arXiv](https://arxiv.org/pdf/2401.17244)
@@ -91,6 +92,7 @@ This repository collects papers on Large Language Model for Chemistry.
 ### LLM Chemistry Benchmark
 
 - `2017.09` Crowdsourcing multiple choice science questions. [ACL Workshop](https://aclanthology.org/W17-4413.pdf)
+- `2020.09` ChemistryQA: A Complex Question Answering Dataset from Chemistry. [OpenReview](https://openreview.net/pdf?id=oeHTRAehiFF)
 - `2023.01` Assessment of chemistry knowledge in large language models that generate code. [Digital Discovery](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00087c)
 - `2023.03` Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
 - `2023.06` Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective. [TKDE](https://arxiv.org/abs/2306.06615)
@@ -109,7 +111,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.02` SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models. [arXiv](https://arxiv.org/abs/2307.10635)
 - `2024.04` Are large language models superhuman chemists? [arXiv](https://arxiv.org/pdf/2404.01475)
 - `2024.06` SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models. [arXiv](https://arxiv.org/pdf/2406.09098)
-
+- `2024.07` ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering. [arXiv](https://arxiv.org/pdf/2407.16931v1)
 
 ### Related Works
 

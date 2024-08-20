@@ -76,6 +76,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2023.10` Large language models for chemistry robotics. [Autonomous Robots](https://doi.org/10.1007/s10514-023-10136-2)
 - `2023.10` Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design. [EMNLP2023](https://arxiv.org/pdf/2310.14420)
 - `2023.11` Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis. [arXiv](https://arxiv.org/abs/2311.10776)
+- `2023.11` Lumos: Unified and Modular Training for Open-Source Language Agents. [arXiv](https://arxiv.org/abs/2311.05657)
 - `2023.12` Autonomous chemical research with large language models. [Nature](https://www.nature.com/articles/s41586-023-06792-0)
 - `2024.01` Structured Chemistry Reasoning with Large Language Models. [ICML2024](https://openreview.net/pdf/c5751a6913a0d8e993413d692b638af70ee7f2bd.pdf)
 - `2024.01` ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback. [ICML2024](https://arxiv.org/abs/2402.10980)

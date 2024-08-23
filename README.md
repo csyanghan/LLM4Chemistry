@@ -72,7 +72,7 @@ This repository collects papers on Large Language Model for Chemistry.
 
 ### LLM as A Chemistry Agent
 
-
+- `2023.09` Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design. [ACS Engineering Au](https://pubs.acs.org/doi/10.1021/acsengineeringau.3c00058)
 - `2023.10` Large language models for chemistry robotics. [Autonomous Robots](https://doi.org/10.1007/s10514-023-10136-2)
 - `2023.10` Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design. [EMNLP2023](https://arxiv.org/pdf/2310.14420)
 - `2023.11` Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis. [arXiv](https://arxiv.org/abs/2311.10776)
@@ -82,6 +82,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.01` ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback. [ICML2024](https://arxiv.org/abs/2402.10980)
 - `2024.02` An Autonomous Large Language Model Agent for Chemical Literature Data Mining. [arXiv](https://arxiv.org/abs/2402.12993)
 - `2024.03` From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery. [AAAI2024](https://arxiv.org/pdf/2309.05203)
+- `2024.03` DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs. [arXiv](https://arxiv.org/pdf/2406.18535)
 - `2024.04` Integrating Chemistry Knowledge in Large Language Models via Prompt Engineering. [arXiv](https://arxiv.org/pdf/2404.14467)
 - `2024.04` Large Language Models are In-Context Molecule Learners. [arXiv](https://arxiv.org/pdf/2403.04197)
 - `2024.04` A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions. [arXiv](https://arxiv.org/pdf/2404.09606)
@@ -89,6 +90,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.05` Augmenting large language models with chemistry tools. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00832-8)
 - `2024.05` ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models. [Nature Communications](https://www.nature.com/articles/s41467-024-48998-4)
 - `2024.06` LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation. [arXiv](https://arxiv.org/pdf/2401.17244)
+
 
 ### LLM Chemistry Benchmark
 

@@ -34,7 +34,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.06` Fine-tuning large language models for chemical text mining. [Chemical Science](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc00924j)
 - `2024.06` MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction. [arXiv](https://arxiv.org/pdf/2406.12950v1)
 - `2024.06` SynAsk: Unleashing the Power of Large Language Models in Organic Synthesis. [arXiv](https://arxiv.org/pdf/2406.04593)
-
+- `2024.06` PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes. [arXiv](https://arxiv.org/pdf/2406.13193)
 
 ### Multi-Modal Chemistry LLM
 

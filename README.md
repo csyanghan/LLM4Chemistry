@@ -48,25 +48,11 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.07` MolLM: a unified language model for integrating biomedical text with 2D and 3D molecular representations. [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i357/7700902)
 - `2024.03` GIT-Mol: A multi-modal large language model for molecular science with graph, image, and text. [arXiv](https://arxiv.org/pdf/2308.06911)
 - `2023.06` MolFM: A Multimodal Molecular Foundation Model. [arXiv](https://arxiv.org/pdf/2307.09484)
-- `2019.02` HOW POWERFUL ARE GRAPH NEURAL NETWORKS? [arXvi](https://arxiv.org/pdf/1810.00826)
-- `2019.05` VQVAE Unsupervised Unit Discovery and Multi-scale Code2Spec Inverter for Zerospeech Challenge 2019. [arXvi](https://arxiv.org/pdf/1905.11449)
-- `2023.07` BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models. [International conference on machine learning](https://proceedings.mlr.press/v202/li23q/li23q.pdf)
-- `2021.07` Learning Transferable Visual Models From Natural Language Supervision. [International conference on machine learning](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
-- `2022.11` ONE TRANSFORMER CAN UNDERSTAND BOTH 2D & 3D MOLECULAR DATA. [The Eleventh International Conference on Learning Representations](https://openreview.net/pdf?id=vZTp1oPV3PC)
 - `2024.06` 3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization. [arXiv](https://arxiv.org/pdf/2406.05797)
-- `2017.08` A simple representation of three-dimensional molecular structure. [Journal of medicinal chemistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075869/)
 - `2023.03` Uni-Mol: A Universal 3D Molecular Representation Learning Framework. [ICLR](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6402990d37e01856dc1d1581/original/uni-mol-a-universal-3d-molecular-representation-learning-framework.pdf)
-- `2021.08` Swin Transformer: Hierarchical Vision Transformer using Shifted Windows. [Proceedings of the IEEE/CVF international conference on computer vision](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
-- `2024.03` MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition. [arXvi](https://arxiv.org/pdf/2403.03691)
-- `2023.08` MolGrapher: Graph-based Visual Recognition of Chemical Structures.[Proceedings of the IEEE/CVF International Conference on Computer Vision](https://openaccess.thecvf.com/content/ICCV2023/papers/Morin_MolGrapher_Graph-based_Visual_Recognition_of_Chemical_Structures_ICCV_2023_paper.pdf)
-- `2021.09` Img2Mol – accurate SMILES recognition from molecular graphical depictions. [Chemical Science](https://pubs.rsc.org/en/content/articlepdf/2021/sc/d1sc01839f)
-- `2023.05` RxnScribe: A Sequence Generation Model for Reaction Diagram Parsing. [arXiv](https://arxiv.org/pdf/2305.11845)
-- `2024.04` OpenChemIE: An Information Extraction Toolkit For Chemistry Literature. [arXiv](https://arxiv.org/pdf/2404.01462)
-- `2023.09` ReactionDataExtractor 2.0: A Deep Learning Approach for Data Extraction from Chemical Reaction Schemes. [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.3c00422)
-- `2019.09` RDKit Documentation. [Release]https://readthedocs.org/projects/rdkit/downloads/pdf/latest/
-- `2023.12` Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena. [arXiv](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf)
 - `2024.06` MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension. [arXiv](https://arxiv.org/pdf/2406.06777)
-- 
+- `2023.08` BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine. [arXiv](https://arxiv.org/pdf/2308.09442)
+- `2023.05` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs. [arXiv](https://arxiv.org/pdf/2309.03907)
 
 
 

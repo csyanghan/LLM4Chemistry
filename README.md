@@ -53,8 +53,8 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.06` MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension. [arXiv](https://arxiv.org/pdf/2406.06777)
 - `2023.08` BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine. [arXiv](https://arxiv.org/pdf/2308.09442)
 - `2023.05` DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs. [arXiv](https://arxiv.org/pdf/2309.03907)
-
-
+- `2024.08` UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation. [arXiv](https://arxiv.org/pdf/2408.00863)
+- `2024.08` ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area. [arXiv](https://arxiv.org/abs/2408.07246)
 
 ### LLM as A Chemistry Agent
 

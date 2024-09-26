@@ -55,6 +55,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.07` MolLM: a unified language model for integrating biomedical text with 2D and 3D molecular representations. [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i357/7700902)
 - `2024.08` UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation. [arXiv](https://arxiv.org/pdf/2408.00863)
 - `2024.08` ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area. [arXiv](https://arxiv.org/abs/2408.07246)
+- `2024.09` ChemDFM-X: Towards Large Multimodal Model for Chemistry. [arXiv](https://arxiv.org/pdf/2409.13194)
 
 ### LLM as A Chemistry Agent
 
@@ -100,7 +101,9 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.04` Are large language models superhuman chemists? [arXiv](https://arxiv.org/pdf/2404.01475)
 - `2024.06` SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models. [arXiv](https://arxiv.org/pdf/2406.09098)
 - `2024.07` ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering. [arXiv](https://arxiv.org/pdf/2407.16931v1)
+- `2024.09` VisScience: An Extensive Benchmark for Evaluating K12 Educational Multi-modal Scientific Reasoning. [arXiv](https://arxiv.org/pdf/2409.13730)
 
+  
 ### Related Works
 
 - `2023.04` A Systematic Survey of Chemical Pre-trained Models. [IJCAI2023](https://www.ijcai.org/proceedings/2023/0760.pdf)

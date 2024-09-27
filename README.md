@@ -102,7 +102,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.06` SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models. [arXiv](https://arxiv.org/pdf/2406.09098)
 - `2024.07` ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering. [arXiv](https://arxiv.org/pdf/2407.16931v1)
 - `2024.09` VisScience: An Extensive Benchmark for Evaluating K12 Educational Multi-modal Scientific Reasoning. [arXiv](https://arxiv.org/pdf/2409.13730)
-
+- `2024.09` ChemEval: A Comprehensive Multi-Level Chemical Evalution for Large Language Models. [arXiv](https://arxiv.org/pdf/2409.13989)
   
 ### Related Works
 

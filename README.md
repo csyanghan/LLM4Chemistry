@@ -80,6 +80,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.06` HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment. [arXiv](https://arxiv.org/pdf/2406.14021)
 - `2024.06` *3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization*. [ICLR2025](https://arxiv.org/pdf/2406.05797)
 - `2024.06` MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension. [arXiv](https://arxiv.org/pdf/2406.06777)
+- `2024.06` Uni-Mol2: Exploring Molecular Pretraining Model at Scale. [arXiv](https://arxiv.org/abs/2406.14969)
 - `2024.07` MolLM: a unified language model for integrating biomedical text with 2D and 3D molecular representations. [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i357/7700902)
 - `2024.08` UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation. [arXiv](https://arxiv.org/pdf/2408.00863)
 - `2024.08` ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area. [arXiv](https://arxiv.org/abs/2408.07246)
@@ -88,6 +89,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.02` Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model. [arXiv](https://arxiv.org/pdf/2502.13449) 
 - `2025.02` Mol-LLM: Generalist Molecular LLM with Improved Graph Utilization. [arXiv](https://arxiv.org/pdf/2502.02810)
 - `2025.05` ChemMLLM: Chemical Multimodal Large Language Model. [arXiv](https://arxiv.org/pdf/2505.16326)
+- `2025.07` Uni-Mol3: A Multi-Molecular Foundation Model for Advancing Organic Reaction Modeling [arXiv](https://arxiv.org/abs/2508.00920)
 - `2025.08` Chem3DLLM: 3D Multimodal Large Language Models for Chemistry. [arXiv](https://arxiv.org/pdf/2508.10696)
 - `2025.12` Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model. [NeurIPS 2025](https://arxiv.org/abs/2502.13449)
 
@@ -112,8 +114,10 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.06` LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation. [arXiv](https://arxiv.org/pdf/2401.17244)
 - `2025.01` ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning. [ICLR2025](https://arxiv.org/pdf/2501.06590)
 - `2025.03` MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses. [ICLR2025](https://arxiv.org/abs/2410.07076)
+- `2025.07` El Agente: An autonomous agent for quantum chemistry. [Matter](https://www.cell.com/matter/fulltext/S2590-2385(25)00306-6)
 - `2025.08` LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework. [arXiv](https://arxiv.org/pdf/2508.11860)
 - `2025.08` FROGENT: An End-to-End Full-process Drug Design Agent. [arXiv](https://arxiv.org/pdf/2508.10760)
+- `2026.02` ChemRefine: An Open-Source Automated and Interoperable Platform for Machine Learning and Quantum Chemistry Simulations[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.5c01881)
 
 
 ### LLM Chemistry Benchmark
@@ -152,6 +156,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.05` Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations. [arXiv](https://arxiv.org/pdf/2505.21318)
 - `2025.08` Can Reasoning Power Significantly Improve the Knowledge of Large Language Models for Chemistry?─Based on Conversations with LLMs [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01265)
 - `2025.12` SUPERChem: A Multimodal Reasoning Benchmark in Chemistry. [arXiv](https://arxiv.org/pdf/2512.01274)
+- `2025.12` Assessing the Chemical Intelligence of Large Language Models. [arXiv](https://pubs.acs.org/doi/10.1021/acs.jcim.5c02145)
 
 ### Related Works
 
